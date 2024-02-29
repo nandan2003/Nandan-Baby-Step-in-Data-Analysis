@@ -66,7 +66,7 @@ Let's have the recap below:
  - Participants should be able to embed MS Power BI Dashboard into MS PowerPoint
  
 
-###Topics Covered
+### Topics Covered
  - How to generate personal analytics dashboard/reports for Microsoft Teams Activities
  - How to create Power BI report from Microsoft SharePoint List data at the click of a button
  - How to embed  Microsoft Power BI report in Microsoft PowerPoint slide.
