@@ -1,5 +1,7 @@
 # A Day in the Life of a Data Analyst - Interview with Industry Experts
 
+![image](https://github.com/nandan2003/Nandan-Baby-Step-in-Data-Analysis/blob/main/Day%205/Screenshot%202024-02-29%20235032.png)
+
 ## Questions on Your Mind
 Your Curiosity led you here and that is a good sign that you have the spirit of the data benders and ninjas. Lol
 
