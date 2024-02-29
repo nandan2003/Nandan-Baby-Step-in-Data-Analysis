@@ -1,6 +1,6 @@
 # Learning Data Analysis Using Microsoft Excel and Power BI
 
-![image]([files/Users/jzhang/Desktop/Isolated.png](https://github.com/nandan2003/Nandan-Baby-Step-in-Data-Analysis/blob/main/Day%206/ing.png))
+![image](https://github.com/nandan2003/Nandan-Baby-Step-in-Data-Analysis/blob/main/Day%206/ing.png)
 
 
 It's been a week full of engagement. Many things to learn and build. This is Day 6 of 30. Now it's time to take account of the things that I have learnt. 
