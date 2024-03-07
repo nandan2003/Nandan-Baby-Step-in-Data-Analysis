@@ -25,5 +25,5 @@ Use this link to get the datasets used in today's session https://aka.ms/30DLDAT
  
 
 ## Get the full Details Here
- ![image]()(https://youtu.be/NEg7jipkOHc)
+ ![[image](https://youtu.be/NEg7jipkOHc)](https://github.com/nandan2003/Nandan-Baby-Step-in-Data-Analysis/blob/main/Day%208/Screenshot%202024-03-07%20122624.png)
 
